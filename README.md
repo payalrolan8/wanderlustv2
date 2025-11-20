@@ -1,6 +1,3 @@
-
-
-
 # 🌍 Wanderlust
 
 A full-stack travel-listing web application inspired by Airbnb. Users can create listings, browse locations, leave reviews, and manage their personal listings.
@@ -128,5 +125,3 @@ Now visit:
 npm start        # Start the server
 npm run dev      # Start with nodemon (if configured)
 ```
-
-

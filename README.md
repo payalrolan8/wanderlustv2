@@ -1,6 +1,5 @@
 
 
----
 
 # 🌍 Wanderlust
 
@@ -130,15 +129,4 @@ npm start        # Start the server
 npm run dev      # Start with nodemon (if configured)
 ```
 
----
 
-
----
-
-
-
----
-
-
-✅ Add an installation GIF or demo section
-Just tell me!
